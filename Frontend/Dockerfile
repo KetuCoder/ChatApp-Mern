@@ -10,4 +10,4 @@ COPY . .
 
 EXPOSE 3001
 
-RUN npm run dev
+RUN npm run build
